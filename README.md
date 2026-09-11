@@ -39,33 +39,4 @@ AI-powered systems, and intelligent data-driven products.
 
 ---
 
-## 🔥 Featured Projects
-
-### 🌍 Climate Intelligence Platform
-Climate risk intelligence platform designed to support banking and lending
-decisions using climate risk, financial risk and borrower-level data.
-
-### 🛒 Gala Curator
-E-commerce and inventory management platform with storefront and
-administrative workflows.
-
----
-
-## 📈 What I'm Currently Working On
-
-- Building scalable full-stack applications
-- Improving backend architecture
-- Cloud deployment and CI/CD automation
-- AI/ML-powered applications
-- Climate risk and financial intelligence
-
----
-
-## 🤝 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL) •
-[GitHub](https://github.com/YOUR_USERNAME)
-
----
-
 ⭐ Thanks for visiting my profile!
