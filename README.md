@@ -144,44 +144,6 @@ Areas I'm actively improving:
 
 ---
 
-# 📚 Currently Learning
-
-* Advanced TypeScript
-* Node.js & Backend Architecture
-* NestJS
-* System Design
-* Microservices
-* Docker & Kubernetes
-* Cloud Architecture
-* CI/CD
-* Distributed Systems
-* AI/ML Engineering
-* Scalable Database Design
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 Learn. Build. Deploy. Repeat.
